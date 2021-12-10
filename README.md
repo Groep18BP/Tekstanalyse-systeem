@@ -6,12 +6,12 @@ Met dit project kun je twee categorieën van teksten vergelijken, zoals twee ver
 waar gaat het project over? (in een paar zinnen)
 
 ## Vereisten
-Alle code is geschreven in Jupyter Notebook met Python. 
+Alle code is geschreven in Jupyter Notebook 6.3.0 met Python 3.8.8. 
 Benodigde modules:
 - GLOB
 - OS
-- NLTK
-- NUMPY
+- NLTK versie 3.6.5, vereist Python 3.6, 3.7, 3.8 of 3.9
+- NUMPY versie 1.21.4
 
 welke externe modules gebruik je? Welke versies?
 
