@@ -20,3 +20,8 @@ welke externe modules gebruik je? Welke versies?
 
 ## Gebruik van deze code voor andere projecten
 - hoe gebruik je het pakket? hoe kunnen anderen de code gebruiken? open bestand met x-naam in x-programma (Jupyter Notebook)
+
+## Format bestandsnaam voor te analyseren bestanden
+Om een bestand toe te voegen aan de analyse wordt het volgende format geaccepteerd:
+  <niveau scholing><id>.txt
+  voorbeelden: vmbo1.txt, vwo5.txt, vmbo3.txt
