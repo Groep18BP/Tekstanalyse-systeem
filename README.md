@@ -2,7 +2,7 @@
 
 ## Beschrijving
 
-In dit project worden boekverslagen geanalysserd op basis van scholingsniveau. 
+In dit project worden boekverslagen geanalyseerd op basis van scholingsniveau. 
 Het programma is zo gemaakt dat een gebruiker zelf kan bepalen welke niveaus hij wilt analyseren.
 Om een bestand 'analyseerbaar' te maken wordt er van de gebruiker geacht om een bepaald benamingsstandaard te gebruiken. 
 Deze is verderop in dit bestand te vinden.
