@@ -14,7 +14,7 @@ Benodigde modules:
 - OS
 - NLTK versie 3.6.5, vereist Python 3.6, 3.7, 3.8 of 3.9
 - NUMPY versie 1.21.4
-- matplotlib
+- matplotlib 3.3.3
 
 ## Inhoud
 Dit pakket bestaat uit een Jupyter Notebook en een datamap. De gebruiker kan de datamap zelf vullen met te analyseren bestanden.
