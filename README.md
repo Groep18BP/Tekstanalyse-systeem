@@ -29,4 +29,4 @@ Om een bestand toe te voegen aan de analyse wordt het volgende format geacceptee
 
   "niveau scholing" + "id".txt
   
-  voorbeelden: vmbo1.txt, vwo5.txt, vmbo3.txt
+  voorbeelden: vmbo1.txt, vwo5.txt, vmbo3.txt, vwo27.txt
