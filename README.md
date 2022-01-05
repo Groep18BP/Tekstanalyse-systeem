@@ -27,6 +27,6 @@ Deze is dan uit te voeren via een Command Line Interface.
 ## Format bestandsnaam voor te analyseren bestanden
 Om een bestand toe te voegen aan de analyse wordt het volgende format geaccepteerd:
 
-  "niveau scholing" + "id".txt
+  "bestandsnaam" + "id".txt
   
-  voorbeelden: vmbo1.txt, vwo5.txt, vmbo3.txt, vwo27.txt
+  voorbeelden: vmbo1.txt, vwo5.txt, banaan3.txt, schommel27.txt, engeland16.txt
